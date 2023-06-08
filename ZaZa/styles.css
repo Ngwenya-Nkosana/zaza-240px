@@ -1,0 +1,22 @@
+
+    @font-face {
+    font-family: 'planet-kosmos';
+    src: url('/home/ngwenya/Desktop/ZaZa/fonts/planet-kosmos.TTF');
+}
+
+h1,p,h1,h2,h3 {
+    font-family: 'planet-kosmos';
+    text-align: center;
+    color : whitesmoke;
+}
+
+body {
+    background-image: url('/home/ngwenya/Desktop/ZaZa/assets/chainmoves.gif');
+    background-attachment: fixed;
+    background-size:auto;
+  }
+
+  img {
+    width: 30%;
+    height: auto;
+  }
